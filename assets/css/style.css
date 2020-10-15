@@ -1,0 +1,15 @@
+/* ///all the stupid styling stuff/// */
+
+body{
+  background-image:url('https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0164/7007/d20fabric_navy_shop_thumb.png') ;
+}
+
+.navbar{
+  background-color: hsl(53, 74%, 72%);
+  justify-content: left;
+}
+
+.imageofme{
+  justify-content: center;
+  padding: 50px;
+}
